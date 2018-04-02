@@ -1,2 +1,2 @@
-# Beijing-Transportation-Research-Group
+# Beijing-Transportation-Research-Network
 Seminars on tranportation
